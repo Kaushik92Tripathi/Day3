@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kaushik92tripathi.github.io/Day3/",
+  "homepage": "https://kaushik92tripathi.github.io/Day3",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
